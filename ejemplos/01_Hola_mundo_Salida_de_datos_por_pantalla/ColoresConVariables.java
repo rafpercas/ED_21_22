@@ -3,7 +3,7 @@
  *
  * Muestra varias palabras en el color que corresponde.
  *
- * @author Luis José Sánchez
+ * @author Luis José Sánchez Rafael
  */
 public class ColoresConVariables {
   public static void main(String[] args) {
